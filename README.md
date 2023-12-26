@@ -65,7 +65,7 @@
 
 ## 🧩 Nodes
 We specializes in creating enhanced nodes for [Node-RED](https://flows.nodered.org), streamlining code development and accelerating the coding process
-| Name | Node-RED | NPM | Downloads | Docs |
+| Name | Node-RED | NPM | Downloads | Git |
 |:-----------|:-----------|:-----------|:-----------|:-----------|
 | node-red-contrib-kubernetes-client-ubos | [![platform](https://img.shields.io/badge/platform-Node--RED-red)](https://flows.nodered.org/node/node-red-contrib-kubernetes-client-ubos) | [![npm](https://img.shields.io/npm/v/node-red-contrib-kubernetes-client-ubos.svg)](https://www.npmjs.com/package/node-red-contrib-kubernetes-client-ubos) | [![downloads](https://img.shields.io/npm/dt/node-red-contrib-kubernetes-client-ubos.svg)](https://www.npmjs.com/package/node-red-contrib-kubernetes-client-ubos) | [link](https://github.com/UBOS-tech/node-red-contrib-kubernetes-client-ubos#readme) |
 | node-red-contrib-openai-ubos | [![platform](https://img.shields.io/badge/platform-Node--RED-red)](https://flows.nodered.org/node/node-red-contrib-openai-ubos) | [![npm](https://img.shields.io/npm/v/node-red-contrib-openai-ubos.svg)](https://www.npmjs.com/package/node-red-contrib-openai-ubos) | [![downloads](https://img.shields.io/npm/dt/node-red-contrib-openai-ubos.svg)](https://www.npmjs.com/package/node-red-contrib-openai-ubos) | [link](https://github.com/UBOS-tech/node-red-contrib-openai-ubos#readme) |
